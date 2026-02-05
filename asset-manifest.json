@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TET-TET/static/css/main.8b977948.css",
+    "main.js": "/TET-TET/static/js/main.8bdbbde9.js",
+    "static/js/787.18eb5dfb.chunk.js": "/TET-TET/static/js/787.18eb5dfb.chunk.js",
+    "static/media/space.png": "/TET-TET/static/media/space.0bb4a9fcf5353e2f36b8.png",
+    "static/media/wallpaper.png": "/TET-TET/static/media/wallpaper.96deaac811c8dbd94bdf.png",
+    "static/media/tt1.png": "/TET-TET/static/media/tt1.9bc8bfa473865007bccf.png",
+    "static/media/tt3.png": "/TET-TET/static/media/tt3.0ad941e1c8475ad89084.png",
+    "static/media/tt2.png": "/TET-TET/static/media/tt2.2c56fa5ace7ab2d55ed7.png",
+    "static/media/tt5.png": "/TET-TET/static/media/tt5.811a5188501c7c9f4b9e.png",
+    "static/media/tt6.png": "/TET-TET/static/media/tt6.1d95f8f10d2b2a047f4f.png",
+    "static/media/tt7.png": "/TET-TET/static/media/tt7.ea5ce0f07a0a0744b9ad.png",
+    "static/media/tt4.png": "/TET-TET/static/media/tt4.2b4900c0934ae43ab804.png",
+    "static/media/tet1.png": "/TET-TET/static/media/tet1.08d791cfede5b85e0d7f.png",
+    "static/media/tet2.png": "/TET-TET/static/media/tet2.c5466b79b3c8117bd87a.png",
+    "index.html": "/TET-TET/index.html",
+    "main.8b977948.css.map": "/TET-TET/static/css/main.8b977948.css.map",
+    "main.8bdbbde9.js.map": "/TET-TET/static/js/main.8bdbbde9.js.map",
+    "787.18eb5dfb.chunk.js.map": "/TET-TET/static/js/787.18eb5dfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b977948.css",
+    "static/js/main.8bdbbde9.js"
+  ]
+}
