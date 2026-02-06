@@ -17,7 +17,7 @@ Have fun playing!
 
 ## How to play
 
-Use the `arrow keys` on your keyboard to move and the `space bar` to rotate the blocks.
+Use the `arrow keys` on your keyboard to move and the `spacebar` to rotate the blocks.
 
 ## Twist
 
