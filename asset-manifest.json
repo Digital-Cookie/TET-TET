@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/TET-TET/static/css/main.8b977948.css",
-    "main.js": "/TET-TET/static/js/main.8bdbbde9.js",
-    "static/js/787.18eb5dfb.chunk.js": "/TET-TET/static/js/787.18eb5dfb.chunk.js",
+    "main.js": "/TET-TET/static/js/main.264cecaf.js",
     "static/media/space.png": "/TET-TET/static/media/space.0bb4a9fcf5353e2f36b8.png",
     "static/media/wallpaper.png": "/TET-TET/static/media/wallpaper.96deaac811c8dbd94bdf.png",
     "static/media/tt1.png": "/TET-TET/static/media/tt1.9bc8bfa473865007bccf.png",
@@ -16,11 +15,10 @@
     "static/media/tet2.png": "/TET-TET/static/media/tet2.c5466b79b3c8117bd87a.png",
     "index.html": "/TET-TET/index.html",
     "main.8b977948.css.map": "/TET-TET/static/css/main.8b977948.css.map",
-    "main.8bdbbde9.js.map": "/TET-TET/static/js/main.8bdbbde9.js.map",
-    "787.18eb5dfb.chunk.js.map": "/TET-TET/static/js/787.18eb5dfb.chunk.js.map"
+    "main.264cecaf.js.map": "/TET-TET/static/js/main.264cecaf.js.map"
   },
   "entrypoints": [
     "static/css/main.8b977948.css",
-    "static/js/main.8bdbbde9.js"
+    "static/js/main.264cecaf.js"
   ]
 }
